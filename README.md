@@ -1,1 +1,2 @@
-# student-_performance
+This project explores a dataset containing student performance metrics to uncover patterns, trends, and actionable insights. Using a tool like Excel to clean the data but also visualize the key insights gotten, the analysis focuses on identifying academic strengths and weaknesses, evaluating subject-specific performance, and recommending strategies to enhance learning outcomes. 
+Key areas include data cleaning, trend analysis, and key insights to support data-driven decision-making in education.
